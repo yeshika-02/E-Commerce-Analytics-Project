@@ -1,100 +1,103 @@
-\# End-to-End E-Commerce Analytics Project
+# End-to-End E-Commerce Analytics Project
 
-\## Project Overview
+## Project Overview
 
-This project analyzes retail sales data to uncover customer behavior, sales trends, profitability drivers, and business insights using Python, Power BI, and Business Intelligence techniques.
+This project analyzes retail sales data to uncover customer behavior, sales trends, profitability drivers, and business insights using Python, Pandas, Matplotlib, Seaborn, and Power BI.
 
-\## Dataset Information
+## Objectives
 
-\* Records: 9,994
+* Analyze sales and profit performance.
+* Identify top customers and high-performing product categories.
+* Evaluate regional sales trends.
+* Measure the impact of discounts on profitability.
+* Generate actionable business insights through data analysis and visualization.
 
-\* Columns: 21
+## Dataset Information
 
-\* Customers: 793
+* Total Records: 9,994
+* Total Columns: 21
+* Total Orders: 5,009
+* Total Customers: 793
 
-\* Orders: 5,009
+## Tools & Technologies
 
-\## Tools \& Technologies
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Power BI
+* Git
+* GitHub
 
-\* Python
+## Data Cleaning
 
-\* Pandas
+* Checked and verified missing values.
+* Checked for duplicate records.
+* Converted Order Date and Ship Date to datetime format.
+* Validated data consistency and structure.
 
-\* NumPy
+## Business KPIs
 
-\* Matplotlib
+Total Sales- $2,297,200.86 
+Total Profit- $286,397.02   
+Total Orders- 5,009         
+Total Customers- 793           
 
-\* Seaborn
+## Exploratory Data Analysis
 
-\* Power BI
+### Monthly Sales Trend
 
-\* Git
+![Monthly Sales Trend](Screenshots/Monthly_Sales_Trend.png)
 
-\* GitHub
+### Top Customers Analysis
 
-\### Business KPIs
+![Top Customers](Screenshots/Top_Customers.png)
 
-Total Sales - $2,297,200.86 
+### Category Analysis
 
-Total Profit - $286,397.02   
+![Category Analysis](Screenshots/Category_Analysis.png)
 
-Total Orders - 5,009         
+### Regional Analysis
 
-Total Customers - 793      
+![Regional Analysis](Screenshots/Regional_Analysis.png)
 
-\### Insights
+### Profitability Analysis
 
-\* Generated over $2.29M in total sales.
+![Profitability Analysis](Screenshots/Profitability_Analsis.png)
 
-\* Achieved total profit of $286K.
+### Discount Impact Analysis
 
-\* Served 793 unique customers across multiple regions.
+![Discount Impact Analysis](Screenshots/Discount_Impact_Analysis.png)
 
-\* Monthly sales showed an overall upward trend from 2014 to 2017.
+## Key Business Insights
 
-\* Sales peaks indicate potential seasonal demand patterns.
+* Generated over $2.29M in total sales.
+* Achieved total profit exceeding $286K.
+* Sales demonstrated a strong upward trend from 2014 to 2017.
+* Certain regions contributed significantly more revenue than others.
+* High discount levels negatively impacted profitability.
+* A small group of customers contributed a substantial share of total revenue.
+* Product category performance varied significantly across the business.
 
-\## Exploratory Data Analysis
+## Power BI Dashboard
 
-\* Monthly Sales Trend
+The dashboard includes:
+1. Executive Overview
+2. Sales Performance Analysis
+3. Customer Analytics
+4. Regional Analysis
+5. Profitability Analysis
 
-\* Customer Analysis
+## Skills Demonstrated
 
-\* Category Analysis
-
-\* Regional Analysis
-
-\* Profitability Analysis
-
-\* Discount Impact Analysis
-
-\## Power BI Dashboard
-
-Dashboard pages include:
-
-1\. Executive Overview
-
-2\. Customer Analytics
-
-3\. Product Analytics
-
-4\. Profitability Analysis
-
-\## Project Structure
-
-\* Dataset
-
-\* Python EDA Notebook
-
-\* Power BI Dashboard
-
-\* Screenshots
-
-\* Business Insights
-
-\## Skills Demonstrated
-
-Data Analysis, Data Cleaning, Exploratory Data Analysis (EDA), Business Intelligence, Data Visualization, KPI Reporting, Python, Power BI, Analytical Thinking
-
-
-
+* Data Cleaning
+* Exploratory Data Analysis (EDA)
+* Business Intelligence
+* Data Visualization
+* KPI Reporting
+* Customer Analytics
+* Sales Analytics
+* Profitability Analysis
+* Python Programming
+* Power BI Dashboard Development
