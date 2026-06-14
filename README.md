@@ -1,18 +1,10 @@
 \# End-to-End E-Commerce Analytics Project
 
-
-
 \## Project Overview
-
-
 
 This project analyzes retail sales data to uncover customer behavior, sales trends, profitability drivers, and business insights using Python, Power BI, and Business Intelligence techniques.
 
-
-
 \## Dataset Information
-
-
 
 \* Records: 9,994
 
@@ -22,11 +14,7 @@ This project analyzes retail sales data to uncover customer behavior, sales tren
 
 \* Orders: 5,009
 
-
-
 \## Tools \& Technologies
-
-
 
 \* Python
 
@@ -44,43 +32,17 @@ This project analyzes retail sales data to uncover customer behavior, sales tren
 
 \* GitHub
 
-
-
-\## Dataset Information
-
-
-
-\* Records: 9,994
-
-\* Columns: 21
-
-\* Customers: 793
-
-\* Orders: 5,009
-
-
-
 \### Business KPIs
 
+Total Sales - $2,297,200.86 
 
+Total Profit - $286,397.02   
 
-| KPI             | Value         |
+Total Orders - 5,009         
 
-| --------------- | ------------- |
-
-| Total Sales     | $2,297,200.86 |
-
-| Total Profit    | $286,397.02   |
-
-| Total Orders    | 5,009         |
-
-| Total Customers | 793           |
-
-
+Total Customers - 793      
 
 \### Insights
-
-
 
 \* Generated over $2.29M in total sales.
 
@@ -92,11 +54,7 @@ This project analyzes retail sales data to uncover customer behavior, sales tren
 
 \* Sales peaks indicate potential seasonal demand patterns.
 
-
-
 \## Exploratory Data Analysis
-
-
 
 \* Monthly Sales Trend
 
@@ -110,15 +68,9 @@ This project analyzes retail sales data to uncover customer behavior, sales tren
 
 \* Discount Impact Analysis
 
-
-
 \## Power BI Dashboard
 
-
-
 Dashboard pages include:
-
-
 
 1\. Executive Overview
 
@@ -128,11 +80,7 @@ Dashboard pages include:
 
 4\. Profitability Analysis
 
-
-
 \## Project Structure
-
-
 
 \* Dataset
 
@@ -144,11 +92,7 @@ Dashboard pages include:
 
 \* Business Insights
 
-
-
 \## Skills Demonstrated
-
-
 
 Data Analysis, Data Cleaning, Exploratory Data Analysis (EDA), Business Intelligence, Data Visualization, KPI Reporting, Python, Power BI, Analytical Thinking
 
