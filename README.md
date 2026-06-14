@@ -48,27 +48,27 @@ Total Customers- 793
 
 ### Monthly Sales Trend
 
-![Monthly Sales Trend](Screenshots/Monthly_Sales_Trend.png)
+[Monthly Sales Trend](Screenshots/Monthly_Sales_Trend.png)
 
 ### Top Customers Analysis
 
-![Top Customers](Screenshots/Top_Customers.png)
+[Top Customers](Screenshots/Top_Customers.png)
 
 ### Category Analysis
 
-![Category Analysis](Screenshots/Category_Analysis.png)
+[Category Analysis](Screenshots/Category_Analysis.png)
 
 ### Regional Analysis
 
-![Regional Analysis](Screenshots/Regional_Analysis.png)
+[Regional Analysis](Screenshots/Regional_Analysis.png)
 
 ### Profitability Analysis
 
-![Profitability Analysis](Screenshots/Profitability_Analsis.png)
+[Profitability Analysis](Screenshots/Profitability_Analsis.png)
 
 ### Discount Impact Analysis
 
-![Discount Impact Analysis](Screenshots/Discount_Impact_Analysis.png)
+[Discount Impact Analysis](Screenshots/Discount_Impact_Analysis.png)
 
 ## Key Business Insights
 
